@@ -33,6 +33,6 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: echo"deploying code.."
+        run: echo "deploying code.."
         
       
